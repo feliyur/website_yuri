@@ -1,5 +1,7 @@
 # 
+Basing off of [Leonid Keselman's site](https://github.com/leonidk/new_website), a jekyll version of [Jon Barron's site](https://jonbarron.info/).
 
+Using [Tania Rascia's jekyll tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
 
 
 ## updated website
